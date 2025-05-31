@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostafahammoud9
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web dev./cybersecurity/python/c.
+- 🌱 I’m currently working on flutter projects.
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me :mostafahammoud76@gmail.com
 
