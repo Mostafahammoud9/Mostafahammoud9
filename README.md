@@ -18,12 +18,9 @@
 - 🔐 [Registration App with APIs](https://github.com/yourusername/registration-app)  
   A complete user registration/login system using Flutter and API calls tested with Postman.
   
-- 💰 [TrackMySalary](https://github.com/yourusername/TrackMySalary)  
+- 💰 [TrackMySalary](https://github.com/Mostafahammoud9/trackmysalary)
   A clean Flutter app to track income and expenses, perfect for managing personal finances.
 ---
 ### 📫 Connect with Me
 - 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
----
-### 📊 GitHub Stats
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 💼 LinkedIn: https://www.linkedin.com/in/mostafa-hammoud-14a5532a6/
