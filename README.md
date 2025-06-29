@@ -22,5 +22,5 @@
   A clean Flutter app to track income and expenses, perfect for managing personal finances.
 ---
 ### 📫 Connect with Me
-- 📧 Email: your.email@example.com  
+- 📧 Email: mostafahammoud76@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/mostafa-hammoud-14a5532a6/
